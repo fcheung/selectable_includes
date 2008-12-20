@@ -1,0 +1,10 @@
+on_welcome:
+  post: welcome
+  created_at: <%=1.week.ago.to_s(:db)%>
+other_on_welcome:
+  post: welcome
+  created_at: <%=1.day.ago.to_s(:db)%>
+on_latest_news:
+  post: on_latest_news
+  created_at: <%=1.week.ago.to_s(:db)%>
+  

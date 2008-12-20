@@ -1,0 +1,12 @@
+welcome_pete:
+  user: pete
+  post: welcome
+  
+welcome_henry:
+  user: henry
+  post: welcome
+  
+latest_news_henry:
+  user: henry
+  post: latest_news
+
